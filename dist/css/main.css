@@ -7,6 +7,24 @@
   display: flex; }
   .Home_Services .col h1 {
     text-transform: uppercase;
+    color: #ffffff;
+    font-size: 50px; }
+  .Home_Services .col p {
+    color: #ffffff;
+    font-size: 1rem;
+    width: 550px;
+    height: 20px;
+    margin: 50px 280px 100px; }
+  .Home_Services .figure {
+    width: 200px;
+    min-height: 50px; }
+  .Home_Services .figure img {
+    margin-bottom: 50px; }
+  .Home_Services .col-sm-3 h3 {
+    color: #ffffff;
+    padding-bottom: 20px;
+    font-size: 1.5rem; }
+  .Home_Services .col-sm-3 p {
     color: #ffffff; }
 
 /*# sourceMappingURL=main.css.map */
