@@ -1,0 +1,12 @@
+.Home_Services {
+  background: #17c2a4;
+  min-height: 600px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex; }
+  .Home_Services .col h1 {
+    text-transform: uppercase;
+    color: #ffffff; }
+
+/*# sourceMappingURL=main.css.map */
